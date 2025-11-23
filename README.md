@@ -36,7 +36,7 @@ python news_generator.py
 
 ## Project files
 
-news_generator.py
+Fake-news-generator.py
 
 README.md
 
